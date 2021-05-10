@@ -1,6 +1,6 @@
 ## Spotify trends & COVID-19: Correlations between music listening trends and hardship levels from COVID
 
-<img width="958" alt="Spotify_COVID_analysis" src="https://user-images.githubusercontent.com/77795761/117550031-881e2700-b003-11eb-9ea8-483f5700d4bb.png">
+<img width="958" alt="Spotify_COVID_analysis" src="https://github.com/kennethcandersen/spotify-user-preferences-during-covid-analysis/blob/main/Spotify_COVID_analysis.png">
 
 **REPOSITORY NAVIGATION**
 
