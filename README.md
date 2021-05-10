@@ -2,7 +2,8 @@
 
 <img width="958" alt="Spotify_COVID_analysis" src="https://github.com/kennethcandersen/spotify-user-preferences-during-covid-analysis/blob/main/Spotify_COVID_analysis.png">
 
-**SUMMARY**
+**EXECUTIVE SUMMARY**
+
 Moderate and strong correlations in some countries between Covid infection rates and music valence ("happiness") preferences indicate that Spotify could adapt it's song recommendation algorithms to take into account how different countries respond to crisis. Some countries saw average valence preferences increase (users prefer happier music) and other countries decrease. Spotify can use this data to improve the user experience, opimize exclusive contracts with certain artists that match the ‘mood’ of each country, and tehreby increase premium subscription revenue. 
 
 **REPOSITORY NAVIGATION**
