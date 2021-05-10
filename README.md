@@ -17,9 +17,9 @@ Moderate and strong correlations in some countries between Covid infection rates
 **OBJECTIVE**
 
 Explore how COVID-19 affected music streaming user preferences to answer:
-- Are they listening to happy music to cheer up?
-- Are we listening to sad music to cope?
-- Does this vary by the country?
+- Are users listening to happy music to cheer up?
+- Are users listening to sad music to cope?
+- Do results vary by country?
 
 
 **BUSINESS IMPACT**
