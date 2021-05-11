@@ -110,7 +110,7 @@ México, Spain and India show from a moderate to a strong negative correlation.
 Global tendency shows a strong positive correlation. 
 Germany and the US match the trend.
 México, Brazil, Italy and India show from a moderate to a strong negative correlation.
-<img width="958" alt="Vance vs. New Cases per Million" src="https://raw.githubusercontent.com/verocastillo/data-project-1/main/main-data-analysis/output_files/scatter_Valence_to_New%20Deaths%20Per%20Million.png">
+<img width="958" alt="Vance vs. New Cases per Million" src="https://github.com/kennethcandersen/spotify-user-preferences-during-covid-analysis/blob/main/main-data-analysis/output_files/scatter_Valence_to_New%20Deaths%20Per%20Million3x3.jpg">
 
 **CONCLUSIONS**
 
