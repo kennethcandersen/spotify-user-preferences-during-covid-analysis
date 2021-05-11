@@ -98,13 +98,13 @@ Mean valence between 2019 and 2020 was significantly different in some countries
 México decreased in 2020.
 Spain increased in 2020.
 Globally, there was no significant change in mean valence.
-<img width="958" alt="Vance Comparison 2019-2020" src="https://github.com/verocastillo/data-project-1/blob/main/main-data-analysis/output_files/Valence.png">
+<img width="958" alt="Vance Comparison 2019-2020" src="https://github.com/kennethcandersen/spotify-user-preferences-during-covid-analysis/blob/main/main-data-analysis/output_files/Valence3x3.jpg">
 
 **Valence vs. Cases per Million**
 Global tendency shows a strong positive correlation. 
 Germany and the US match the trend.
 México, Spain and India show from a moderate to a strong negative correlation.
-<img width="958" alt="Vance vs. New Cases per Million" src="https://github.com/verocastillo/data-project-1/blob/main/main-data-analysis/output_files/scatter_Valence_to_New%20Cases%20Per%20Million.png">
+<img width="958" alt="Vance vs. New Cases per Million" src="https://github.com/kennethcandersen/spotify-user-preferences-during-covid-analysis/blob/main/main-data-analysis/output_files/scatter_Valence_to_New%20Cases%20Per%20Million3x3.jpg">
 
 **Valence vs. Deaths per Million**
 Global tendency shows a strong positive correlation. 
