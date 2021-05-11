@@ -1,6 +1,10 @@
 ## Spotify trends & COVID-19: Correlations between music listening trends and hardship levels from COVID
 
-<img width="958" alt="Spotify_COVID_analysis" src="https://user-images.githubusercontent.com/77795761/117550031-881e2700-b003-11eb-9ea8-483f5700d4bb.png">
+<img width="958" alt="Spotify_COVID_analysis" src="https://github.com/kennethcandersen/spotify-user-preferences-during-covid-analysis/blob/main/Spotify_COVID_analysis.png">
+
+**EXECUTIVE SUMMARY**
+
+Moderate and strong correlations in some countries between Covid infection rates and music valence ("happiness") preferences indicate that Spotify could adapt it's song recommendation algorithms to take into account how different countries respond to crisis. Some countries saw average valence preferences increase (users prefer happier music) and other countries decrease. Spotify can use this data to improve the user experience, opimize exclusive contracts with certain artists that match the ‘mood’ of each country, and tehreby increase premium subscription revenue. 
 
 **REPOSITORY NAVIGATION**
 
@@ -13,9 +17,9 @@
 **OBJECTIVE**
 
 Explore how COVID-19 affected music streaming user preferences to answer:
-- Are they listening to happy music to cheer up?
-- Are we listening to sad music to cope?
-- Does this vary by the country?
+- Are users listening to happy music to cheer up?
+- Are users listening to sad music to cope?
+- Do results vary by country?
 
 
 **BUSINESS IMPACT**
